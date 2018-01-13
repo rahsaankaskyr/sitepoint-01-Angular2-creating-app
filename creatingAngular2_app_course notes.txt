@@ -1,0 +1,6 @@
+Sitepoint.com - Creating Your First Angular 2 App - course - notes
+
+	- npm or github.com/creationix/nvm
+
+Skeleton project 
+	- 

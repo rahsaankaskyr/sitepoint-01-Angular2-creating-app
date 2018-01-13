@@ -1,5 +1,5 @@
 Sitepoint.com - Creating Your First Angular 2 App - course - notes
-
+	- crtl + ` (back tick)- opens terminal VS code
 
  - Why we use TypeScript
 	- to find errors before run time
@@ -9,12 +9,9 @@ Sitepoint.com - Creating Your First Angular 2 App - course - notes
 	- npm or github.com/creationix/nvm
 
 - Skeleton Project Overview 
-	- 
-
-
-
-    
-- Defining the Dependancies
+	- put on GitHub or bitbucket
+	- has 7 files 
+		1 - package.json - Defining the Dependancies
 
 
 - Configuring the TypeScript Compiler

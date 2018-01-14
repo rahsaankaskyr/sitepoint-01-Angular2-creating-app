@@ -19,11 +19,9 @@ Sitepoint.com - Creating Your First Angular 2 App - course - notes
 					- scripts (npm scripts defining - start script to 					  start application
 					- "tsc" (typescript compiler)
 					- "lite" (server running app during dev)
-					- " -w" (watching files & update app during dev)			
-			
-
-
-- Configuring the TypeScript Compiler
+					- " -w" (watching files & update app during dev)
+		
+		2 - Configuring the TypeScript Compiler
 
 
 - Configuring the SystemJS Module Loader

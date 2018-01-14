@@ -12,9 +12,14 @@ Sitepoint.com - Creating Your First Angular 2 App - course - notes
 	- put on GitHub or bitbucket
 	- has 7 files 
 		1 - package.json - Defining the Dependancies
+			- crtl + ` (back tick)- opens terminal VS code
 			- CLI 	- $ touch paackage.json (create json file)
 				- nom init (create json file)
-			- crtl + ` (back tick)- opens terminal VS code
+				- json file
+					- scripts (npm scripts defining - start script to 					  start application
+					- "tsc" (typescript compiler)
+					- "lite" (server running app during dev)
+					- " -w" (watching files & update app during dev)			
 			
 
 
